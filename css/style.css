@@ -92,6 +92,18 @@ body {
 
 .box-1 {
     margin-top:20px;
-    margin-left: 47%;
+    margin-left: 45%;
     display: flex;
+}
+
+.mine {
+    margin-top:200px;
+}
+
+.red {
+    color: red;
+}
+
+.mine1 {
+    margin-top: 1000px;
 }
